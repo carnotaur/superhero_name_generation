@@ -6,7 +6,7 @@ Link to google collab: https://colab.research.google.com/drive/1a_t2T1eHU82jZf2T
 
 Введение в pytorch tensors: https://github.com/Kyubyong/pytorch_exercises
 
-Неофициальный PyTorch туториал: https://github.com/yunjey/pytorch-tutorial
+Неофициальный PyTorch туториал: https://github.com/yunjey/pytorch-tutorial  
 Достаточно пройти Basics и Intermediate
 
     Basics
